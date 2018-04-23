@@ -14,5 +14,3 @@ C2F implements a management web interface which serves as a frontend for the API
 
 
 
-
-
