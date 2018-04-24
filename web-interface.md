@@ -26,7 +26,7 @@ The groups dropdown allows you to both create new groups, and view existing grou
 
 ### Agents
 
-The Agents dropdown allows you to access information about each Agent. Agent's logs can be viewed here, and in future, their modules will also be displayed here.  
+The Agents dropdown allows you to access information about each Agent. Agent online/offline status, and logs can be viewed here. Additionally, information on assigned modules will be displayed displayed here.  
 
 ### Modules
 

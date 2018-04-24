@@ -13,7 +13,7 @@ The Agent node daemon is written in Python, and is extremely simple to install. 
 #### Steps
 
 1. Run `curl https://$C2DOMAIN_NAME/install | python `
-2. If the Agent crashes, or stops, you can start it again by running `c2d`
+2. The Agent installs as a daemon called c2d. You can run `c2d start/stop/restart` to manage it.
 
 {% hint style="info" %}
 Ensure the user which will run the Agent has Docker permissions \(root has these by default\). To add a user to the Docker group, run   
